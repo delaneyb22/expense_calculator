@@ -1,11 +1,11 @@
 # expense_calculator
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
 
-{Describe your purpose for writing this software.}
+I created a program that is a basic expenses calculator. The user first enters the budget they'd like to have for the month, then they put in how much they spend into different categories. This could be rent, gas, food etc. The program adds the categories together and then says if the user is over or under budget. 
+
+This program can provide a way for someone to know if they are within a budget for themselves.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -13,21 +13,23 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used 
+* Visual Studio Code
+* W3Schools
 
-{Describe the programming language that you used and any libraries.}
+This is a java program, I downloaded the java extension tht visual studio code recommended. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+
+- [W3Schools](https://www.w3schools.com/java/default.asp)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/java/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Things I would want to improve in this program:
 
-- Item 1
-- Item 2
-- Item 3
+- Save spending records in a list/file 
+- Pull previous month's spending to compare to this months from that list/file
+- Ask the user if they would like help or advice on how to save money
