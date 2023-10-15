@@ -4,10 +4,13 @@ import java.util.Scanner;
 public class MyExpenses {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        //ask user to set a budget for month
         System.out.println("Enter your monthly budget: ");
+        //makes answer to user input a double 
         double monthlyBudget = scanner.nextDouble();
 
         System.out.println("Enter the number of categories you want to track: ");
+        //takes scanner info and sets to variable numofcategories
         int numberOfCategories = scanner.nextInt();
 
         double totalSpending = 0;
