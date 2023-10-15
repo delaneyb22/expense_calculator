@@ -27,5 +27,6 @@ public class MyExpenses {
             System.out.println("Unfortunately, you are over budget.");
         }
         scanner.close();
+
     }
 }
